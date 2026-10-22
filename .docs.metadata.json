@@ -1,0 +1,17 @@
+[
+  {
+    "id": "agents-code-architect",
+    "name": "code-architect",
+    "title": "Code Architect Agent",
+    "ext": "md",
+    "path": "agents/code-architect.md",
+    "status": "",
+    "categories": "",
+    "tags": [],
+    "updated_at": "2026-10-22T16:43:45.667Z",
+    "approvers": [],
+    "links": [],
+    "templateId": "",
+    "prompt": ""
+  }
+]
